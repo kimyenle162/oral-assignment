@@ -1,2 +1,2 @@
 # oral-assignment
-Greeting from A 
+Greeting from B
